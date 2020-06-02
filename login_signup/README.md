@@ -1,5 +1,0 @@
-# "done" - might add/change later
-terminal-based
-very beginner-level coding
-  mostly consisting of functions with if-else statements in it
-  not sure if this is considered "prodcedural programming"?
