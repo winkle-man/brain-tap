@@ -1,2 +1,2 @@
-# just a bunch of projects for practice
+# projects for practice
 python-based
