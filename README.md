@@ -1,2 +1,2 @@
-# brain-tap
-just a bunch of projects for practice
+# just a bunch of projects for practice
+python-based
