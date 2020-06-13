@@ -1,1 +1,1 @@
-# Preserve ratio checkbox and resize button not yet functional
+# a rough draft 
