@@ -52,3 +52,4 @@ btn_C = Button(frame, text = 'C', width = 8, height = 3, command = lambda: delet
 btn_plus = Button(frame, text = '+', width = 8, height = 3, command = lambda: button_click('+')).grid(row = 3, column = 3, pady = 3, sticky = 'e')
 
 root.mainloop()
+print("Program Complete....")
